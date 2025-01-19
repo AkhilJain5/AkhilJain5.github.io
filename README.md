@@ -28,13 +28,15 @@ I am currently pursuing a **Bachelor of Technology in Computer Science & Enginee
 
 Here are some of my key projects:
 
-1. **Drowsiness Detection System**  
-   - Prevents fatigue-related accidents using real-time driver monitoring.  
-   - [View Project](https://github.com/yourusername/drowsiness-detection) | [Read More](https://github.com/yourusername/drowsiness-detection#readme)
-
-2. **Handwritten Digit Recognition**  
+1. **Handwritten Digit Recognition**  
    - Built with LeNet-5 to achieve high accuracy in digit recognition.  
-   - [View Project](https://github.com/yourusername/digit-recognition) | [Read More](https://github.com/yourusername/digit-recognition#readme)
+   - [View Project](https://github.com/AkhilJain5/Handwritten-Digit-Recognition) | [Read More](https://github.com/AkhilJain5/Handwritten-Digit-Recognition#readme)
+2. **Drowsiness Detection System**  
+   - Prevents fatigue-related accidents using real-time driver monitoring.  
+   - [View Project](https://github.com/AkhilJain5/AlertGuard) | [Read More](https://github.com/AkhilJain5/AlertGuard#readme)
+3. **Object Detection System using Yolo**  
+   - Implemented an Object Detection System attaining an accuracy rate of 85%. 
+   - [View Project](https://github.com/AkhilJain5/Object-Detection-System) | [Read More](https://github.com/AkhilJain5/Object-Detection-System#readme)
 
 ---
 
@@ -42,9 +44,9 @@ Here are some of my key projects:
 
 Feel free to reach out via the following platforms:
 
-- 📧 Email: [akhil@example.com](mailto:akhil@example.com)
-- 💼 LinkedIn: [Akhil's LinkedIn](https://linkedin.com/in/yourlinkedin)
-- 🐙 GitHub: [Akhil's GitHub](https://github.com/yourusername)
+- 📧 Email: [akhil@example.com](mailto:jainakhil505@gmail.com)
+- 💼 LinkedIn: [Akhil's LinkedIn](https://www.linkedin.com/in/akhil-jain-61107122a)
+- 🐙 GitHub: [Akhil's GitHub](https://github.com/AkhilJain5)
 
 ---
 
