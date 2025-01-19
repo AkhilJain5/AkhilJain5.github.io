@@ -44,7 +44,7 @@ Here are some of my key projects:
 
 Feel free to reach out via the following platforms:
 
-- 📧 Email: [akhil@example.com](mailto:jainakhil505@gmail.com)
+- 📧 Email: [jainakhil505@gmail.com](mailto:jainakhil505@gmail.com)
 - 💼 LinkedIn: [Akhil's LinkedIn](https://www.linkedin.com/in/akhil-jain-61107122a)
 - 🐙 GitHub: [Akhil's GitHub](https://github.com/AkhilJain5)
 
